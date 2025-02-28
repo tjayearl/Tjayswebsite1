@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-<html>
-  <head>
-    <title>Tjayswebsite</title>
-    <!-- This is a comment! -->
-    <link rel="stylesheet" type="text/css" href="style.css" />
-  </head>
-  <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is a simple HTML page.</p>
-    <!-- This is a comment! -->
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retro Cars</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Retro Cars</h1>
+    <p>Here you can find the best retro cars</p>
+    <h2>Our cars</h2>
+    <img src="/home/admin2025/Downloads/pexels-quentin-martinez-2147503099-30706131.jpg" alt="Car 1">
+    <img src="/home/admin2025/Downloads/pexels-markusspiske-1729993.jpg" alt="Car 2">
+</body>
 </html>
